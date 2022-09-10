@@ -8,3 +8,4 @@ let weight= 150;
 let originalNum=23;
 let numberToBeAdded= 7;
 let newNub = originalNum + numberToBeAdded;
+let joke="is this serious";
